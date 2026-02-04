@@ -1,0 +1,9 @@
+
+.container {
+    display: flex;
+    gap: 30px;
+}
+.tasks {
+    display: grid;
+    gap: 10px;
+}
